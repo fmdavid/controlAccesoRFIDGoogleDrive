@@ -10,7 +10,7 @@ En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
 ## Componentes utilizados
 
-(los módulos los puede sustituir por los componentes directamente si lo prefiere)
+(algunos módulos los puede sustituir por los componentes directamente si lo prefiere)
 
 * Arduino MEGA
 * Módulo Wifi (ESP8266 de tipo ESP01)
