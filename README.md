@@ -8,6 +8,21 @@ En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
 * [Vídeo](https://www.youtube.com/watch?v=1UWYabAecMw)
 
+## Componentes utilizados
+
+(los módulos los puede sustituir por los componentes directamente si lo prefiere)
+
+* Arduino MEGA
+* Módulo Wifi (ESP8266 de tipo ESP01)
+* Módulo LED RGB 
+* Módulo RFID (suele incluir alguna tarjeta o llavero para probar)
+* Módulo buzzer
+* Módulo con célula fotoeléctrica
+* Módulo para temperatura/humedad (DHT11 o DHT22, el que tenga a mano)
+* Placa de pruebas
+* Cables dupont
+* Adaptador de corriente
+
 ## Contenido
 
 En este repositorio puede encontrar lo siguiente:
